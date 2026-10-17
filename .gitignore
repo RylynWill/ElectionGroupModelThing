@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and Office lock files
+.DS_Store
+Thumbs.db
+~$*
+.~lock*
+
+# Paid subscriber data: keep out of the repo
+*Silver_Bulletin*
+*silver_bulletin*

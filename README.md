@@ -1,6 +1,6 @@
 # 2026 U.S. Senate Forecast: Event Edition
 
-Our group's model for the election poll prediction workshop. It starts from the professor's starter notebook (polls, partisan lean, presidential approval, correlated simulations) and adds a layer for major events: news shocks, changes to voting access, and redrawn maps. It also includes a sensitivity sweep that shows which of our choices actually move the forecast.
+version of the group model for the election poll prediction workshop. It starts from the professor's starter notebook (polls, partisan lean, presidential approval, correlated simulations) and adds a layer for major events: news shocks, changes to voting access, and redrawn maps. It also includes a sensitivity sweep that shows which of our choices actually move the forecast.
 
 **On the October 15 data, Democrats control the Senate in 66.6% of 40,000 simulated elections** (median 52 Democratic seats, 80% range 48 to 55).
 
